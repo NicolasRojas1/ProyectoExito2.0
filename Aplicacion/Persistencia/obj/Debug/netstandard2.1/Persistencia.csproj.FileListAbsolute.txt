@@ -1,0 +1,48 @@
+C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Persistencia.deps.json
+C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Persistencia.dll
+C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Persistencia.pdb
+C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.csprojAssemblyReference.cache
+C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfo.cs
+C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.dll
+C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.pdb
+C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Dominio.dll
+C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Dominio.pdb
+C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CopyComplete
+D:\Usuarios\Documents\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Persistencia.deps.json
+D:\Usuarios\Documents\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Persistencia.dll
+D:\Usuarios\Documents\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Persistencia.pdb
+D:\Usuarios\Documents\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Dominio.dll
+D:\Usuarios\Documents\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Dominio.pdb
+D:\Usuarios\Documents\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.csprojAssemblyReference.cache
+D:\Usuarios\Documents\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfoInputs.cache
+D:\Usuarios\Documents\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfo.cs
+D:\Usuarios\Documents\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CoreCompileInputs.cache
+D:\Usuarios\Documents\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CopyComplete
+D:\Usuarios\Documents\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.dll
+D:\Usuarios\Documents\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.pdb
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Persistencia.deps.json
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Persistencia.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Persistencia.pdb
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Dominio.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Dominio.pdb
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.csprojAssemblyReference.cache
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfo.cs
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CopyComplete
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.pdb
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Persistencia.deps.json
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Persistencia.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Persistencia.pdb
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Dominio.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Dominio.pdb
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.csprojAssemblyReference.cache
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfoInputs.cache
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfo.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CoreCompileInputs.cache
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CopyComplete
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.pdb

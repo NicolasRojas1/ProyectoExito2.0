@@ -1,0 +1,335 @@
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.exe
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.deps.json
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.json
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.dev.json
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.pdb
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.pdb
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csprojAssemblyReference.cache
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfoInputs.cache
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfo.cs
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cache
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cs
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.input.cache
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.output.cache
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorCoreGenerate.cache
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cache
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cs
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.Views.pdb
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.Manifest.cache
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.xml
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.pdb
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.genruntimeconfig.cache
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CopyComplete
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudAdministradorCompra\Create.cshtml.g.cs
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudAdministradorCompra\Delete.cshtml.g.cs
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudAdministradorCompra\Details.cshtml.g.cs
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudAdministradorCompra\Edit.cshtml.g.cs
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExito1.0\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudAdministradorCompra\Index.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.exe
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.deps.json
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.json
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.dev.json
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.pdb
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.pdb
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Persistencia.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\bin\Debug\netcoreapp3.1\Persistencia.pdb
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csprojAssemblyReference.cache
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfoInputs.cache
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfo.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CoreCompileInputs.cache
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.MvcApplicationPartsAssemblyInfo.cache
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cache
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.input.cache
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.output.cache
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorCoreGenerate.cache
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudAdministradorCompra\Create.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudAdministradorCompra\Delete.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudAdministradorCompra\Details.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudAdministradorCompra\Edit.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudAdministradorCompra\Index.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cache
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.Views.pdb
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CopyComplete
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.Manifest.cache
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.xml
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.dll
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.pdb
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.genruntimeconfig.cache
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudControl\Create.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudControl\Delete.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudControl\Details.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudControl\Edit.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudControl\Index.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudProducto\Create.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudProducto\Delete.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudProducto\Details.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudProducto\Edit.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudProducto\Index.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudVendedor\Create.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudVendedor\Delete.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudVendedor\Details.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudVendedor\Edit.cshtml.g.cs
+D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\CrudVendedor\Index.cshtml.g.cs
