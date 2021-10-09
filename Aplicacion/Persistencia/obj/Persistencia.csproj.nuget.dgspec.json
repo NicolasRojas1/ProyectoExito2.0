@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Usuarios\\Documents\\ProyectExito\\ProyectoExito\\Aplicacion\\Persistencia\\Persistencia.csproj": {}
+    "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Persistencia\\Persistencia.csproj": {}
   },
   "projects": {
-    "D:\\Usuarios\\Documents\\ProyectExito\\ProyectoExito\\Aplicacion\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuarios\\Documents\\ProyectExito\\ProyectoExito\\Aplicacion\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "D:\\Usuarios\\Documents\\ProyectExito\\ProyectoExito\\Aplicacion\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Usuarios\\Documents\\ProyectExito\\ProyectoExito\\Aplicacion\\Dominio\\obj\\",
+        "projectPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\Nicolás\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Nicolás\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -54,17 +54,17 @@
         }
       }
     },
-    "D:\\Usuarios\\Documents\\ProyectExito\\ProyectoExito\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuarios\\Documents\\ProyectExito\\ProyectoExito\\Aplicacion\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "D:\\Usuarios\\Documents\\ProyectExito\\ProyectoExito\\Aplicacion\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Usuarios\\Documents\\ProyectExito\\ProyectoExito\\Aplicacion\\Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Nicolás\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Nicolás\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -75,8 +75,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "D:\\Usuarios\\Documents\\ProyectExito\\ProyectoExito\\Aplicacion\\Dominio\\Dominio.csproj": {
-                "projectPath": "D:\\Usuarios\\Documents\\ProyectExito\\ProyectoExito\\Aplicacion\\Dominio\\Dominio.csproj"
+              "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Dominio\\Dominio.csproj"
               }
             }
           }

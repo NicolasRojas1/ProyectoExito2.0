@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "biH9HxW9KH3vOMqjD+HqYHP1ANId2R4H2ZUdw6WhwMl56TDtiYyqYUNbYC0fW5ysWmctiML9BAtaP9MZYjx8YQ==",
+  "dgSpecHash": "jRxTiTPNnJNibwcgvlBtqCa4WLZBatjAbcQlTricBPuhpVn9f3C4STtlPP7TgasNlQ8az7REptitsqA2+LNf9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Consola\\Consola.csproj",
+  "projectFilePath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Consola\\Consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nicolás\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Nicolás\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

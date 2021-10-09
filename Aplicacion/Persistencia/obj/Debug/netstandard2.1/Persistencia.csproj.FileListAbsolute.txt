@@ -46,3 +46,15 @@ D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Persistencia\obj\Deb
 D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CopyComplete
 D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.dll
 D:\Usuarios\Documents\ProyectExito\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.pdb
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExitoGit2.0\ProyectoExito2.0\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Persistencia.deps.json
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExitoGit2.0\ProyectoExito2.0\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Persistencia.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExitoGit2.0\ProyectoExito2.0\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Persistencia.pdb
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExitoGit2.0\ProyectoExito2.0\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Dominio.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExitoGit2.0\ProyectoExito2.0\Aplicacion\Persistencia\bin\Debug\netstandard2.1\Dominio.pdb
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExitoGit2.0\ProyectoExito2.0\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.csprojAssemblyReference.cache
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExitoGit2.0\ProyectoExito2.0\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExitoGit2.0\ProyectoExito2.0\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfo.cs
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExitoGit2.0\ProyectoExito2.0\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExitoGit2.0\ProyectoExito2.0\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CopyComplete
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExitoGit2.0\ProyectoExito2.0\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.dll
+C:\Users\Nicolás\Desktop\Mercury Explorer\ProyectoExitoGit2.0\ProyectoExito2.0\Aplicacion\Persistencia\obj\Debug\netstandard2.1\Persistencia.pdb

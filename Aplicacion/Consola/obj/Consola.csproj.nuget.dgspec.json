@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Consola\\Consola.csproj": {}
+    "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Consola\\Consola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Consola\\Consola.csproj": {
+    "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Consola\\Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Consola\\Consola.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Consola\\Consola.csproj",
         "projectName": "Consola",
-        "projectPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Consola\\Consola.csproj",
+        "projectPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Consola\\Consola.csproj",
         "packagesPath": "C:\\Users\\Nicolás\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Consola\\obj\\",
+        "outputPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nicolás\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,11 +25,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Dominio\\Dominio.csproj"
+              "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Persistencia\\Persistencia.csproj"
+              "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\Nicolás\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nicolás\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -119,14 +119,14 @@
         }
       }
     },
-    "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Persistencia\\Persistencia.csproj",
+        "projectPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\Nicolás\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Persistencia\\obj\\",
+        "outputPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nicolás\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -140,8 +140,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExito1.0\\ProyectoExito\\Aplicacion\\Dominio\\Dominio.csproj"
+              "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Nicolás\\Desktop\\Mercury Explorer\\ProyectoExitoGit2.0\\ProyectoExito2.0\\Aplicacion\\Dominio\\Dominio.csproj"
               }
             }
           }
