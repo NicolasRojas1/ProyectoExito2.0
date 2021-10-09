@@ -1,8 +1,8 @@
-ProyectoExito2.0/Aplicacion/Consola/bin
-ProyectoExito2.0/Aplicacion/Consola/obj
-ProyectoExito2.0/Aplicacion/Presentacion/bin
-ProyectoExito2.0/Aplicacion/Presentacion/obj
-ProyectoExito2.0/Aplicacion/Persistencia/bin
-ProyectoExito2.0/Aplicacion/Persistencia/obj
-ProyectoExito2.0/Aplicacion/Dominio/bin
-ProyectoExito2.0/Aplicacion/Dominio/obj
+/Aplicacion/Consola/bin
+/Aplicacion/Consola/obj
+/Aplicacion/Presentacion/bin
+/Aplicacion/Presentacion/obj
+/Aplicacion/Persistencia/bin
+/Aplicacion/Persistencia/obj
+/Aplicacion/Dominio/bin
+/Aplicacion/Dominio/obj
