@@ -1,9 +1,0 @@
-C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
-C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
-C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
-C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
-C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
-C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Dominio\bin\Debug\netstandard2.0\Dominio.dll
-C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
-C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.dll
-C:\Users\Nicolás\Documents\ProyectoExito\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
