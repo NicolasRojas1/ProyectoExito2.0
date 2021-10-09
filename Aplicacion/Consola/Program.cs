@@ -7,8 +7,6 @@ namespace Consola
     {
         private static IRepositorioCliente _repoCliente= new RepositorioCliente(
             new Persistencia.Conexion());
-        private static IRepositorioVendedor _repoVendedor= new RepositorioVendedor(
-            new Persistencia.Conexion());
         private static IRepositorioControles _repoControl= new RepositorioControles(
             new Persistencia.Conexion());   
 
@@ -16,15 +14,6 @@ namespace Consola
             new Persistencia.Conexion());
         
         private static IRepositorioVideojuego _repoVideojuego= new RepositorioVideojuegocs(
-            new Persistencia.Conexion());
-
-        private static IRepositorioAdministradorVentas _repoAventas= new RepositorioAVentas(
-            new Persistencia.Conexion());
-        
-        private static IRepositorioAdmiCompra _repoAdministradorCompra = new RepositorioAdmiCompra(
-            new Persistencia.Conexion());
-
-        private static IRepositorioAdmiSistema _repoAdministradorSistema = new RepositorioAdmiSistema(
             new Persistencia.Conexion());
 
         private static IRepositorioConsola _repoConsola = new RepositorioConsola(
@@ -37,11 +26,6 @@ namespace Consola
         //getCliente(2);
         //deleteCliente(1);
         //updateCliente();
-        //-------------------------------Parte Vendedor--------------------------
-        //addVendedor();
-        //deleteVendedor(1);
-        //getEmpleado(2);
-        //updateVendedor();
         //-------------------------------Parte Controles--------------------------
         //---------Cliente-----------------------------    
         //addControl();
@@ -59,28 +43,11 @@ namespace Consola
         //deleteVideojuego(1);
         //getVideojuego(1);
         //updateVideojuego();
-        //--------------AvVentas--------------
-        //addAVentas();
-        //deleteAVentas(1);
-        //getEmpleado1(1);
-        //updateAVentas();
-        //getEmpleado1(1);
-        //----------------------------Parte AdmiCompra----------------------------
-        //addAdministradorCompra();
-        //deleteAdministradorCompra(2);
-        //getAdministradorCompra(1);
-        //updateAdministradorCompra();
-
-        //----------------------------Parte AdmiSistema----------------------------
-        //addAdministradorSistema();
-        //deleteAdministradorSistema(1);
-        //getAdministradorSistema(1);
-        //updateAdministradorSistema();
         //----------------------------Parte Consola ----------------------------
         //addConsola();
         //deleteConsola(1);
         //getConsola(1);
-        updateConsola();
+        //updateConsola();
 
         }
         public static void addCliente(){
@@ -114,44 +81,7 @@ namespace Consola
 	    };
 	    _repoCliente.updateCliente(cliente);
         }
-        //-------------------Vendedor-----------------------------
-        public static void addVendedor(){
-            var vendedor = new Vendedor(){
-            Nombres="Juan",
-	        Apellidos= "Rojas",
-            TipoDocumento="Tarjeta de I", 
-            NumeroDocumento="0990901",   
-            CodigoEmpleado =0123,
-            Sucursal= "Cali",
-            Usuario= "1234",
-            Contraseña ="Jorge",
-
-            };
-            _repoVendedor.addVendedor(vendedor);
-        }
-        public static void deleteVendedor(int VendedorId){
-	     _repoVendedor.deleteVendedor(VendedorId);
-        }
-        public static void getEmpleado(int VendedorId){
-	    var vendedor= _repoVendedor.readVendedor(VendedorId);
-	    if(vendedor==null)
-	    return;
-	    Console.WriteLine(vendedor.Usuario);
-        }
-        public static void updateVendedor(){
-	    var vendedor= new Vendedor{
-	    VendedorId=(2),
-	    Nombres="Felipe",
-	    Apellidos= "A",
-        TipoDocumento="Tarjeta de I",
-        NumeroDocumento="123123",
-        CodigoEmpleado=9898,
-        Sucursal="Popayan",
-        Usuario="3434",
-        Contraseña="JJ",
-	    };
-	    _repoVendedor.updateVendedor(vendedor);
-        }
+        
         //-------------------Controles-----------------------------
    
         public static void addControl(){
@@ -246,128 +176,7 @@ namespace Consola
 	    };
 	    _repoVideojuego.updateVideojuego(videojuego);
         }
-        //---------ADminitrador de ventas-----------------------------
-        public static void addAVentas(){
-            var AVendedor = new AdministradorVenta(){
-            Nombres="Nicolas",
-	        Apellidos= "Lopes",
-            TipoDocumento="CC", 
-            NumeroDocumento="01",   
-            CodigoEmpleado =123,
-            Sucursal= "Cali",
-            Usuario= "122",
-            Contraseña ="Nico",
-
-            };
-            _repoAventas.addAVentas(AVendedor);
-        }
-        public static void deleteAVentas(int AdministradorVentaId){
-	     _repoAventas.deleteAVentas(AdministradorVentaId);
-        }
-        public static void getEmpleado1(int AdministradorVentaId){
-	    var AVendedor= _repoAventas.readAVentas(AdministradorVentaId);
-	    if(AVendedor==null)
-	    return;
-	    Console.WriteLine(AVendedor.Usuario);
-        }
-        public static void updateAVentas(){
-	    var AVendedor = new AdministradorVenta(){
-	    AdministradorVentaId=(1),
-	    Nombres="Felipe",
-	    Apellidos= "A",
-        TipoDocumento="Tarjeta de I",
-        NumeroDocumento="999",
-        CodigoEmpleado=000,
-        Sucursal="Bogota",
-        Usuario="4234",
-        Contraseña="FF",
-	    };
-	    _repoAventas.updateAVentas(AVendedor);
-        }
-        //----------------------------Parte AdmiCompra----------------------------
-        public static void addAdministradorCompra()
-        {
-            var administradorCompra = new AdministradorCompra()
-            {
-                Nombres = "Juan",
-                Apellidos = "Ballesteros",
-                TipoDocumento = "Cedula",
-                NumeroDocumento = "103445455",
-                CodigoEmpleado = 1234,
-                Sucursal = "SanGil",
-                Usuario = "JuanBA",
-                Contraseña = "123123",
-            };
-            _repoAdministradorCompra.addAdministradorCompra(administradorCompra);
-        }
-        public static void deleteAdministradorCompra(int AdministradorCompraId)
-        {
-            _repoAdministradorCompra.deleteAdministradorCompra(AdministradorCompraId);
-        }
-        public static void getAdministradorCompra(int AdministradoresComprasId)
-        {
-            var administradorCompra = _repoAdministradorCompra.readAdministradorCompra(AdministradoresComprasId);
-            if (administradorCompra == null)
-            return;
-            Console.WriteLine(administradorCompra.Nombres);
-        }
-        public static void updateAdministradorCompra()
-        {
-            var administradorCompra = new AdministradorCompra
-            {
-                Nombres = "Pedro",
-                Apellidos = "Picapiedra",
-                TipoDocumento = "Cedula",
-                NumeroDocumento = "100005455",
-                CodigoEmpleado = 1233,
-                Sucursal = "SanGil",
-                Usuario = "PedroPic",
-                Contraseña = "12341234",
-            };
-            _repoAdministradorCompra.updateAdministradorCompra(administradorCompra);
-        }
-        //----------------------------Parte AdmiSistema----------------------------
-        public static void addAdministradorSistema()
-        {
-            var administradorSistema = new AdministradorSistema()
-            {
-                Nombres = "Pablo",
-                Apellidos = "Macias",
-                TipoDocumento = "Cedula",
-                NumeroDocumento = "10342333455",
-                CodigoEmpleado = 12345,
-                Sucursal = "SanGil",
-                Usuario = "JuanMa",
-                Contraseña = "1243123",
-            };
-            _repoAdministradorSistema.addAdministradorSistema(administradorSistema);
-        }
-        public static void deleteAdministradorSistema(int AdministradorSistemaId)
-        {
-            _repoAdministradorSistema.deleteAdministradorSistema(AdministradorSistemaId);
-        }
-        public static void getAdministradorSistema(int AdministradorSistemaId)
-        {
-            var administradorSistema = _repoAdministradorSistema.readAdministradorSistema(AdministradorSistemaId);
-            if (administradorSistema == null)
-            return;
-            Console.WriteLine(administradorSistema.Nombres);
-        }
-        public static void updateAdministradorSistema()
-        {
-            var administradorSistema = new AdministradorSistema()
-            {
-                Nombres = "Pedro",
-                Apellidos = "Picapiedra",
-                TipoDocumento = "Cedula",
-                NumeroDocumento = "100005455",
-                CodigoEmpleado = 1233,
-                Sucursal = "SanGil",
-                Usuario = "PedroPic",
-                Contraseña = "12341234",
-            };
-            _repoAdministradorSistema.updateAdministradorSistema(administradorSistema);
-        }
+        
         //----------------------ParteConsola----------------------------------------------
         public static void addConsola()
         {
