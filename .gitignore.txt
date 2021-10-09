@@ -1,8 +1,0 @@
-/Aplicacion/Consola/bin
-/Aplicacion/Consola/obj
-/Aplicacion/Dominio/bin
-/Aplicacion/Dominio/obj
-/Aplicacion/Persistencia/bin
-/Aplicacion/Persistencia/obj
-/Aplicacion/Presentacion/bin
-/Aplicacion/Presentacion/obj
