@@ -1,0 +1,90 @@
+@page
+@model Presentacion.Pages.CrudConsola1.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Consola1[0].Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Consola1[0].Version)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Consola1[0].Fabricante)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Consola1[0].CapacidadAlmacenamiento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Consola1[0].SSD)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Consola1[0].HDD)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Consola1[0].CantidadRam)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Consola1[0].VelocidadProcesador)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Consola1[0].PrecioCompra)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Consola1[0].PrecioVenta)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Consola1) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Version)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fabricante)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CapacidadAlmacenamiento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SSD)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HDD)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CantidadRam)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VelocidadProcesador)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecioCompra)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecioVenta)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Consola1Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Consola1Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Consola1Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
