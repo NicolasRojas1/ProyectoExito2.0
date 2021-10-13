@@ -10,26 +10,20 @@
 
 <body class="box">   
     <input type="checkbox" id="chec">
-                <label for="chec">
-                   <img src="~/img/menuuu.png" width="40" height="40" >
-                </label>      
-    <header>
+        <label for="chec">
+            <img src="~/img/menuuu.png" width="40" height="40" >
+        </label>      
         <nav>
-                    <ul>
-                        <div class="container">
-                
-                        <li><a class="nav-link colorText" asp-area="" asp-page="/Index">EXITO</a> </li>
-                        <li><a class="nav-link colorText" asp-area="" asp-page="/CrudAdministradorCompra/Index">Administrador de Compra</a> </li>
-                        <li class="nav-item">
-                            <a class="nav-link colorText" asp-area="" asp-page="/CrudControl/Index">Controles</a>
-                        </li>
-
-                        <li class="nav-item"><a class="nav-link colorText" asp-area="" asp-page="/CrudProducto/Index">Productos</a></li>
-
-                        <li class="nav-item"><a class="nav-link colorText" asp-area="" asp-page="/CrudVendedor/Index">Vendedores</a></li>
-                        <li class="nav-item"><a class="nav-link colorText" asp-area="" asp-page="/CrudVideojuego/Index">Videojuegos</a></li>   
+            <ul>
+                <div class="container">
+                    <li><a class="nav-link colorText" asp-area="" asp-page="/Index">EXITO</a> </li>
+                    <li><a class="nav-link colorText" asp-area="" asp-page="/CrudAdministradorCompra/Index">Administrador de Compra</a> </li>
+                    <li class="nav-item"><a class="nav-link colorText" asp-area="" asp-page="/CrudControl/Index">Controles</a></li>
+                    <li class="nav-item"><a class="nav-link colorText" asp-area="" asp-page="/CrudProducto/Index">Productos</a></li>
+                    <li class="nav-item"><a class="nav-link colorText" asp-area="" asp-page="/CrudVendedor/Index">Vendedores</a></li>
+                    <li class="nav-item"><a class="nav-link colorText" asp-area="" asp-page="/CrudVideojuego/Index">Videojuegos</a></li>   
                     </ul>
-                </nav>
+                
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -40,14 +34,14 @@
                     </ul>
                 </div>
             </div>
-        </nav>
-    </header>
+        
+   
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
-
+     
     <footer class="border-top footer text-muted">
    
     </footer>
@@ -57,5 +51,6 @@
     <script src="~/js/site.js" asp-append-version="true"></script>
 
     @RenderSection("Scripts", required: false)
+    </nav>
 </body>
 </html>

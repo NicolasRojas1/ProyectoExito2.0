@@ -23,6 +23,8 @@ a {
   background-image: linear-gradient( yellow, orange);
 }
 
+
+
 .fondoarriba {
   background-color: #000000;
 
@@ -44,6 +46,8 @@ input[type="checkbox"]
   display: none; 
 
 }
+
+
 nav {
   background-color: #ffffff;
   width: 350px;
