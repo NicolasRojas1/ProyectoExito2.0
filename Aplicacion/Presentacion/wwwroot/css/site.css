@@ -9,19 +9,45 @@ a.navbar-brand {
 
 /* Provide sufficient contrast against white background */
 a {
-  color: #0366d6;
+  color: #ffffff;
+ 
+}
+.colorText {
+  color: #000000;
+}
+
+.texto_ede{
+  color: #000000;
+}
+.box {
+  background-image: linear-gradient( yellow, orange);
+}
+
+.fondoarriba {
+  background-color: #000000;
+
 }
 
 .btn-primary {
   color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+  color: rgb(255, 255, 255);
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+input[type="checkbox"]
+{
+  display: none; 
+
+}
+nav {
+  background-color: #ffffff;
+  width: 350px;
+  height: 100%;
 }
 
 /* Sticky footer styles
@@ -36,14 +62,14 @@ html {
 }
 
 .border-top {
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid #000000;
 }
 .border-bottom {
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #000000; 
 }
 
 .box-shadow {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+  box-shadow: 0 .25rem .75rem rgb(255, 255, 255); /* sombreado*/
 }
 
 button.accept-policy {
