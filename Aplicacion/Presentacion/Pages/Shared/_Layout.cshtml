@@ -6,6 +6,7 @@
     <title>@ViewData["Title"]</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="icon" href="~/img/exito.ico">
 </head>
 
 <body class="box">   
@@ -17,12 +18,14 @@
             <ul>
                 <div class="container">
                     <li><a class="nav-link colorText" asp-area="" asp-page="/Index">EXITO</a> </li>
-                    <li><a class="nav-link colorText" asp-area="" asp-page="/CrudAdministradorCompra/Index">Administrador de Compra</a> </li>
+                    <li><a class="nav-link colorText" asp-area="" asp-page="/CrudCliente/Index">Cliente</a> </li>
+                    <li class="nav-item"><a class="nav-link colorText" asp-area="" asp-page="/CrudConsola1/Index">Consolas</a></li>
                     <li class="nav-item"><a class="nav-link colorText" asp-area="" asp-page="/CrudControl/Index">Controles</a></li>
                     <li class="nav-item"><a class="nav-link colorText" asp-area="" asp-page="/CrudProducto/Index">Productos</a></li>
-                    <li class="nav-item"><a class="nav-link colorText" asp-area="" asp-page="/CrudVendedor/Index">Vendedores</a></li>
+                    <li class="nav-item"><a class="nav-link colorText" asp-area="" asp-page="/CrudEmpleado/Index">Empleado</a></li>
                     <li class="nav-item"><a class="nav-link colorText" asp-area="" asp-page="/CrudVideojuego/Index">Videojuegos</a></li>   
                     </ul>
+        </nav>
                 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
@@ -51,6 +54,5 @@
     <script src="~/js/site.js" asp-append-version="true"></script>
 
     @RenderSection("Scripts", required: false)
-    </nav>
 </body>
 </html>
