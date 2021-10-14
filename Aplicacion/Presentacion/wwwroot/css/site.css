@@ -5,13 +5,36 @@ a.navbar-brand {
   white-space: normal;
   text-align: center;
   word-break: break-all;
+  display: block;
+  padding: 20 px 5px;
 }
-
+ul{
+  list-style: none;
+}
+*{
+  padding: 0px;
+  margin: 0px;
+}
 /* Provide sufficient contrast against white background */
 a {
-  color: #ffffff;
- 
+  display: block;
+  padding: 20 px 5px;
+  color: #000000;
 }
+a:hover{
+  background-color:rgb(250, 236, 34);
+  color: black;
+}
+
+label{
+  
+  padding: 10px;
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  background-color: #000000;
+}
+
 .colorText {
   color: #000000;
 }
@@ -52,6 +75,18 @@ nav {
   background-color: #ffffff;
   width: 350px;
   height: 100%;
+  left: -350px;
+  position:absolute;
+  transition: all .5s;
+}
+input[type="checkbox"]:checked ~ nav{
+  transform: translateX(350px);
+} 
+ul{
+  
+  top: 60px;
+position: absolute;
+width: 100%;
 }
 
 /* Sticky footer styles
