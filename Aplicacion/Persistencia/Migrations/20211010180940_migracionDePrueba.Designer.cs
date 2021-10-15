@@ -2,15 +2,17 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Persistencia;
 
 namespace Persistencia.Migrations
 {
     [DbContext(typeof(Conexion))]
-    partial class ConexionModelSnapshot : ModelSnapshot
+    [Migration("20211010180940_migracionDePrueba")]
+    partial class migracionDePrueba
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -140,7 +142,6 @@ namespace Persistencia.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Contraseña")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("NombreRol")
@@ -153,14 +154,12 @@ namespace Persistencia.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Sucursal")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("TipoDocumento")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Usuario")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("EmpleadoId");

@@ -5,23 +5,88 @@ a.navbar-brand {
   white-space: normal;
   text-align: center;
   word-break: break-all;
+  display: block;
+  padding: 20 px 5px;
 }
-
+ul{
+  list-style: none;
+}
+*{
+  padding: 0px;
+  margin: 0px;
+}
 /* Provide sufficient contrast against white background */
 a {
-  color: #0366d6;
+  display: block;
+  padding: 20 px 5px;
+  color: #000000;
+}
+a:hover{
+  background-color:rgb(250, 236, 34);
+  color: black;
+}
+
+label{
+  
+  padding: 10px;
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  background-color: #000000;
+}
+
+.colorText {
+  color: #000000;
+}
+
+.texto_ede{
+  color: #000000;
+}
+.box {
+  background-image: linear-gradient( yellow, orange);
+}
+
+
+
+.fondoarriba {
+  background-color: #000000;
+
 }
 
 .btn-primary {
   color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+  color: rgb(255, 255, 255);
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+input[type="checkbox"]
+{
+  display: none; 
+
+}
+
+
+nav {
+  background-color: #ffffff;
+  width: 350px;
+  height: 100%;
+  left: -350px;
+  position:absolute;
+  transition: all .5s;
+}
+input[type="checkbox"]:checked ~ nav{
+  transform: translateX(350px);
+} 
+ul{
+  
+  top: 60px;
+position: absolute;
+width: 100%;
 }
 
 /* Sticky footer styles
@@ -36,14 +101,14 @@ html {
 }
 
 .border-top {
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid #000000;
 }
 .border-bottom {
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #000000; 
 }
 
 .box-shadow {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+  box-shadow: 0 .25rem .75rem rgb(255, 255, 255); /* sombreado*/
 }
 
 button.accept-policy {
