@@ -30,20 +30,23 @@ namespace Presentacion.Pages
         {
             Conexion conexion = new Conexion();
             Empleado empleado = conexion.Empleados.FirstOrDefault(e => e.Usuario == Usuario);
+            Console.WriteLine(Usuario);
 
             if(empleado != null){
-                if (empleado.Contraseña.Equals(Contrasena))
+                if (empleado.Password.Equals(Contrasena))
                 {
                     return RedirectToPage("../Index");
-                }else{
-                    Mensaje2 = "El password no coincide";
-                    // Problema con el return: en el return el profe lo ponia asi "return Pages();" y daba error sobre algo del "namespace Presentacion.Pages"
-                    return null;
                 }
-            }else{
+                else
+                {
+                    Mensaje2 = "El password no coincide";
+                    return Page();
+                }
+            }
+            else
+            {
                 Mensaje = "Usuario no ha sido encontrado";
-                // Problema con el return: en el return el profe lo ponia asi "return Pages();" y daba error sobre algo del "namespace Presentacion.Pages"
-                return null;
+                return Page();
             }
         }
     }
