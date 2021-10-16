@@ -33,7 +33,7 @@ namespace Presentacion.Pages
             Console.WriteLine(Usuario);
 
             if(empleado != null){
-                if (empleado.Password.Equals(Contrasena))
+                if (empleado.Contraseña.Equals(Contrasena))
                 {
                     return RedirectToPage("../Index");
                 }

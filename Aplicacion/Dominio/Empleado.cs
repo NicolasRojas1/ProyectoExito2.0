@@ -10,7 +10,7 @@ namespace Dominio
 		[Required(ErrorMessage="El campo Sucursal es requerido")]
 		public string Usuario {get; set;}
 		[Required(ErrorMessage="El campo Usuario es requerido")]
-		public string Password {get; set;}
+		public string Contraseña {get; set;}
 		[Required(ErrorMessage="El campo Contraseña es requerido")]
 		public NombreRol NombreRol {get; set;}
 		public void CambioContraseña()
