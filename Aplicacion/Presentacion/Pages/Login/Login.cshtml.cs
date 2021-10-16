@@ -31,8 +31,7 @@ namespace Presentacion.Pages
             Conexion conexion = new Conexion();
             Empleado empleado = conexion.Empleados.FirstOrDefault(e => e.Usuario == Usuario);
 
-            if(empleado != null)
-            {
+            if(empleado != null){
                 if (empleado.Contraseña.Equals(Contrasena))
                 {
                     return RedirectToPage("../Index");
