@@ -28,7 +28,7 @@ a:hover{
 
 label{
   
-  padding: 10px;
+  padding: 5px;
   position: absolute;
   z-index: 1;
   width: 100%;
@@ -73,14 +73,14 @@ input[type="checkbox"]
 
 nav {
   background-color: #ffffff;
-  width: 350px;
+  width: 230px;
   height: 100%;
-  left: -350px;
+  left: -230px;
   position:absolute;
   transition: all .5s;
 }
 input[type="checkbox"]:checked ~ nav{
-  transform: translateX(350px);
+  transform: translateX(230px);
 } 
 ul{
   
