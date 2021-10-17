@@ -13,7 +13,8 @@ namespace Dominio
 		public string Contraseña {get; set;}
 		[Required(ErrorMessage="El campo Contraseña es requerido")]
 		public NombreRol NombreRol {get; set;}
-		public void CambioContraseña()
+		public bool PrimerIngreso {get; set;}
+		public void CambioContraseña()		
 		{
 		}
 	}

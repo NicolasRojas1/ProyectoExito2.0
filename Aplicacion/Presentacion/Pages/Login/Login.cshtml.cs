@@ -1,3 +1,4 @@
+using System.Net;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -33,6 +34,11 @@ namespace Presentacion.Pages
             Console.WriteLine(Usuario);
 
             if(empleado != null){
+                if(empleado.PrimerIngreso)
+            {
+                HttpContext.Session.GetString("username", Username);
+                return RedirectToPage("../CambiarContraseña/CambiarContraseña");
+            }
                 if (empleado.Contraseña.Equals(Contrasena))
                 {
                     return RedirectToPage("../Index");

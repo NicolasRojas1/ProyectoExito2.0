@@ -37,7 +37,7 @@ namespace Presentacion.Pages.CrudEmpleado
             {
                 return Page();
             }
-
+            Empleado.PrimerIngreso = true;
             _context.Empleados.Add(Empleado);
             await _context.SaveChangesAsync();
 
