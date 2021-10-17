@@ -9,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Persistencia;
+using Microsoft.AspNetCore.Http;
 
 namespace Presentacion
 {
@@ -26,6 +27,7 @@ namespace Presentacion
         {
             services.AddRazorPages();
             services.AddDbContext<Conexion>();
+            services.AddSession();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -48,11 +50,14 @@ namespace Presentacion
             app.UseRouting();
 
             app.UseAuthorization();
+            
+            app.UseSession();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
             });
+
         }
     }
 }

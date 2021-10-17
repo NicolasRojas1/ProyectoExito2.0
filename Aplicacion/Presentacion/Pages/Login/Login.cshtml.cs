@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Dominio;
 using Persistencia;
+using Microsoft.AspNetCore.Http;
+
 
 namespace Presentacion.Pages
 {
@@ -36,7 +38,7 @@ namespace Presentacion.Pages
             if(empleado != null){
                 if(empleado.PrimerIngreso)
             {
-                HttpContext.Session.GetString("username", Username);
+                HttpContext.Session.SetString("username", Usuario);
                 return RedirectToPage("../CambiarContraseña/CambiarContraseña");
             }
                 if (empleado.Contraseña.Equals(Contrasena))
