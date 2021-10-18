@@ -47,6 +47,28 @@ label2{
   color: #000000;
 }
 
+.menu{
+  color:rgb(0, 0, 0);
+ 
+
+}
+
+.contenedor{
+
+  width: 100%;
+  padding: 20px;
+
+
+}
+.post{
+ 
+  margin-left: 30%;
+  margin-right: 40%;
+
+}
+
+
+
 
 
 .texto_ede{
@@ -55,7 +77,15 @@ label2{
 .box {
   background-image: linear-gradient( yellow, orange);
 }
-
+.button_login{
+  border: none;
+  border-radius: 5px;
+  background-color: #000000;
+  color:#ffffff ;
+  font-size: 20px;
+  width: 30%;
+  
+}
 
 
 .fondoarriba {
