@@ -2,13 +2,16 @@
 @model Presentacion.Pages.CrudEmpleado.IndexModel
 
 @{
-    ViewData["Title"] = "Index";
+    <br/>
+    ViewData["Title"] = "Empleado";
 }
 
-<h1>Indice</h1>
+<dev class="text-center">
+<h1><img src="~/img/Empleado.png" width="50" height="50">Empleado<img src="~/img/Empleado.png" width="50" height="50"></h1>
+</dev>
 
 <p>
-    <a asp-page="Create">Crear Nuevo</a>
+    <a asp-page="Create"><input type="submit" value="Añadir un nuevo empleado" class="btn btn-primary"></a>
 </p>
 <table class="table">
     <thead>
@@ -44,6 +47,7 @@
         </tr>
     </thead>
     <tbody>
+
 @foreach (var item in Model.Empleado) {
         <tr>
             <td>
@@ -74,9 +78,9 @@
                 @Html.DisplayFor(modelItem => item.NumeroDocumento)
             </td>
             <td>
-                <a asp-page="./Edit" asp-route-id="@item.EmpleadoId">Edit</a> |
-                <a asp-page="./Details" asp-route-id="@item.EmpleadoId">Details</a> |
-                <a asp-page="./Delete" asp-route-id="@item.EmpleadoId">Delete</a>
+                <a asp-page="./Edit" asp-route-id="@item.EmpleadoId"><b>Editar</b></a> |
+                <a asp-page="./Details" asp-route-id="@item.EmpleadoId"><b>Detalles</b></a> |
+                <a asp-page="./Delete" asp-route-id="@item.EmpleadoId"><b>Eliminar</b></a>
             </td>
         </tr>
 }

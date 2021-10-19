@@ -2,13 +2,15 @@
 @model Presentacion.Pages.CrudEmpleado.EditModel
 
 @{
-    ViewData["Title"] = "Edit";
+    <br/>
+    ViewData["Title"] = "Editar Empleado";
 }
 
-<h1>Edit</h1>
-
-<h4>Empleado</h4>
-<hr />
+<div class="text-center"> 
+<h1>Editar Empleado</h1>
+<h4>En esta sección podras modificar el Empleado seleccionado</h4>
+</div>
+<div class="contenedor post">
 <div class="row">
     <div class="col-md-4">
         <form method="post">
@@ -73,15 +75,15 @@
                 <input asp-for="Empleado.NumeroDocumento" class="form-control" />
                 <span asp-validation-for="Empleado.NumeroDocumento" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
+            <div class="form-group text-center">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-page="./Index">Back to List</a>
+    <a asp-page="Index"><b>Regresar a la lista</b></a>
 </div>
 
 @section Scripts {
