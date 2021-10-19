@@ -9,8 +9,8 @@ using Persistencia;
 namespace Persistencia.Migrations
 {
     [DbContext(typeof(Conexion))]
-    [Migration("20211016231556_CambioPasswordYDataB4")]
-    partial class CambioPasswordYDataB4
+    [Migration("20211019185536_PruebaMigracion")]
+    partial class PruebaMigracion
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -141,6 +141,10 @@ namespace Persistencia.Migrations
                     b.Property<int>("CodigoEmpleado")
                         .HasColumnType("int");
 
+                    b.Property<string>("Contraseña")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int>("NombreRol")
                         .HasColumnType("int");
 
@@ -150,9 +154,8 @@ namespace Persistencia.Migrations
                     b.Property<string>("NumeroDocumento")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Password")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<bool>("PrimerIngreso")
+                        .HasColumnType("bit");
 
                     b.Property<string>("Sucursal")
                         .IsRequired()
