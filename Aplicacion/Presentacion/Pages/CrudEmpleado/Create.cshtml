@@ -14,27 +14,32 @@
         <form method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Empleado.CodigoEmpleado" class="control-label"></label>
+                <h4><b>Codigo del Empleado</b></h4>
+                <label1 asp-for="Empleado.CodigoEmpleado" class="control-label"></label1>
                 <input asp-for="Empleado.CodigoEmpleado" class="form-control" required/>
                 <span asp-validation-for="Empleado.CodigoEmpleado" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Empleado.Sucursal" class="control-label"></label>
+                <h4><b>Sucursal</b></h4>
+                <label1 asp-for="Empleado.Sucursal" class="control-label"></label1>
                 <input asp-for="Empleado.Sucursal" class="form-control" required/>
                 <span asp-validation-for="Empleado.Sucursal" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Empleado.Usuario" class="control-label"></label>
+                <h4><b>Usuario</b></h4>
+                <label1 asp-for="Empleado.Usuario" class="control-label"></label1>
                 <input asp-for="Empleado.Usuario" class="form-control" required/>
                 <span asp-validation-for="Empleado.Usuario" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Empleado.Contraseña" class="control-label"></label>
+                <h4><b>Contraseña</b></h4>
+                <label1 asp-for="Empleado.Contraseña" class="control-label"></label1>
                 <input asp-for="Empleado.Contraseña" class="form-control" required/>
                 <span asp-validation-for="Empleado.Contraseña" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Empleado.NombreRol" class="control-label"></label>
+                <h4><b>Seleccione el rol</b></h4>
+                <label1 asp-for="Empleado.NombreRol" class="control-label"></label1>
                 <select class="form-control">
                     <option value="0">ADMINITRADOR_COMPRAS</option>
                     <option value="1">ADMINISTRADOR_VENTA</option>
@@ -44,22 +49,27 @@
                 <span asp-validation-for="Empleado.NombreRol" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Empleado.Nombres" class="control-label"></label>
+                <h4><b>Nombres</b></h4>
+                <label1 asp-for="Empleado.Nombres" class="control-label"></label1>
                 <input asp-for="Empleado.Nombres" class="form-control" required/>
                 <span asp-validation-for="Empleado.Nombres" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Empleado.Apellidos" class="control-label"></label>
+                <h4><b>Apellidos</b></h4>
+                <label1 asp-for="Empleado.Apellidos" class="control-label"></label1>
                 <input asp-for="Empleado.Apellidos" class="form-control" required/>
                 <span asp-validation-for="Empleado.Apellidos" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Empleado.TipoDocumento" class="control-label"></label>
+                <h4><b>Tipo de documento</b></h4>
+                <label1 asp-for="Empleado.TipoDocumento" class="control-label"></label1>
                 <input asp-for="Empleado.TipoDocumento" class="form-control" required/>
                 <span asp-validation-for="Empleado.TipoDocumento" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Empleado.NumeroDocumento" class="control-label"></label>
+                
+                <h4><b>Numero de documento</b></h4>
+                <label1 asp-for="Empleado.NumeroDocumento" class="control-label"></label1>
                 <input asp-for="Empleado.NumeroDocumento" class="form-control" required/>
                 <span asp-validation-for="Empleado.NumeroDocumento" class="text-danger"></span>
             </div>

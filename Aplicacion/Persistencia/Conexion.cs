@@ -17,7 +17,7 @@ namespace Persistencia
         {
             if(!conn.IsConfigured)
             {
-                conn.UseSqlServer("Data source = (localdb)\\MSSQLLocalDB; Initial Catalog = Exito3");
+               conn.UseSqlServer("Data source = (localdb)\\MSSQLLocalDB; Initial Catalog = Exito3");
             }
         }
     }

@@ -67,6 +67,9 @@ label2{
   margin-right: 40%;
 
 }
+.fondodellaes{
+  background-color: #ffffff;
+}
 
 .container1 {
   display: flex;
@@ -91,6 +94,11 @@ label2{
   
 }
 
+.row1 {
+  background: white;
+  width: 25%;
+  margin-bottom: 1rem;
+}
 table{
   border-color: #000000;
   background-color:#ffffff;
