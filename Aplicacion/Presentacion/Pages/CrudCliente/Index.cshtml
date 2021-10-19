@@ -2,13 +2,14 @@
 @model Presentacion.Pages.CrudCliente.IndexModel
 
 @{
-    ViewData["Title"] = "Index";
+    <br/>
+    ViewData["Title"] = "Cliente";
 }
-
-<h1>Index</h1>
-
+<dev class="text-center">
+<h1><img src="~/img/venta.png" width="50" height="50">Cliente<img src="~/img/venta.png" width="50" height="50"></h1>
+</dev>
 <p>
-    <a asp-page="Create">Create New</a>
+    <a asp-page="Create"><input type="submit" value="Añadir un nuevo cliente" class="btn btn-primary"></a>
 </p>
 <table class="table">
     <thead>
@@ -50,9 +51,9 @@
                 @Html.DisplayFor(modelItem => item.NumeroDocumento)
             </td>
             <td>
-                <a asp-page="./Edit" asp-route-id="@item.ClienteId">Edit</a> |
-                <a asp-page="./Details" asp-route-id="@item.ClienteId">Details</a> |
-                <a asp-page="./Delete" asp-route-id="@item.ClienteId">Delete</a>
+                <a asp-page="./Edit" asp-route-id="@item.ClienteId"><b>Editar</b></a> |
+                <a asp-page="./Details" asp-route-id="@item.ClienteId"><b>Detalles</b></a> |
+                <a asp-page="./Delete" asp-route-id="@item.ClienteId"><b>Eliminar</b></a>
             </td>
         </tr>
 }
