@@ -9,8 +9,8 @@ using Persistencia;
 namespace Persistencia.Migrations
 {
     [DbContext(typeof(Conexion))]
-    [Migration("20211019185536_PruebaMigracion")]
-    partial class PruebaMigracion
+    [Migration("20211019222300_migrarfinal")]
+    partial class migrarfinal
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
