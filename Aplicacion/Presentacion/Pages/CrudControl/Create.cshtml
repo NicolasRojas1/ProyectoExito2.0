@@ -2,46 +2,50 @@
 @model Presentacion.Pages.CrudControl.CreateModel
 
 @{
-    ViewData["Title"] = "Create";
+    ViewData["Title"] = "Crear";
 }
 
-<h1>Create</h1>
+<h1><b>Añadir control</b></h1>
 
-<h4>Control</h4>
+<h3><b>Bienvenido a la sección de controles</b></h3>
 <hr />
 <div class="row">
     <div class="col-md-4">
         <form method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Control.TipoControl" class="control-label"></label>
+                <h4><b>Tipo de control</b></h4>
+                <label2 asp-for="Control.TipoControl" class="control-label"></label2>
                 <input asp-for="Control.TipoControl" class="form-control" />
                 <span asp-validation-for="Control.TipoControl" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Control.NumeroControl" class="control-label"></label>
+                <h4><b>Numero de controles</b></h4>
+                <label2 asp-for="Control.NumeroControl" class="control-label"></label2>
                 <input asp-for="Control.NumeroControl" class="form-control" />
                 <span asp-validation-for="Control.NumeroControl" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Control.PrecioCompra" class="control-label"></label>
+                <h4><b>Precio de compra</b></h4>
+                <label2 asp-for="Control.PrecioCompra" class="control-label"></label2>
                 <input asp-for="Control.PrecioCompra" class="form-control" />
                 <span asp-validation-for="Control.PrecioCompra" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Control.PrecioVenta" class="control-label"></label>
+                <h4><b>Precio de venta</b></h4>
+                <label2 asp-for="Control.PrecioVenta" class="control-label"></label2>
                 <input asp-for="Control.PrecioVenta" class="form-control" />
                 <span asp-validation-for="Control.PrecioVenta" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Añadir" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-page="Index">Back to List</a>
+    <a asp-page="Index">Regresar a la lista</a>
 </div>
 
 @section Scripts {
